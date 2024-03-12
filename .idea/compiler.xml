@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MavenDemo" />
         <module name="JDBCDemos" />
+        <module name="JUnitDemos" />
         <module name="DoctorAppJDBC" />
         <module name="BookMavenJDBC" />
       </profile>
